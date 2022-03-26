@@ -1,4 +1,4 @@
-# LS-KR
+# Elihuso
 * A senior high school student.
 * Normal coder.
 * Write C#, C++, and Python.
